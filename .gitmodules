@@ -1,0 +1,3 @@
+[submodule "public-api-postman-collection"]
+	path = public-api-postman-collection
+	url = https://github.com/transferwise/public-api-postman-collection.git

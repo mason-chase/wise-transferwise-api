@@ -1,0 +1,36 @@
+﻿[
+  {
+    "id": 1,
+    "type": "personal",
+    "details": {
+      "firstName": "John",
+      "lastName": "Doe",
+      "dateOfBirth": "1982-08-22",
+      "phoneNumber": "+12223334321",
+      "avatar": null,
+      "occupation": null,
+      "occupations": null,
+      "primaryAddress": 123456,
+      "firstNameInKana": null,
+      "lastNameInKana": null
+    }
+  },
+  {
+    "id": 2,
+    "type": "business",
+    "details": {
+      "name": "JohnDoe, LLC",
+      "registrationNumber": "12345789",
+      "acn": null,
+      "abn": null,
+      "arbn": "",
+      "companyType": "LIMITED",
+      "companyRole": "OWNER",
+      "descriptionOfBusiness": "IT_SERVICES",
+      "primaryAddress": 654321,
+      "webpage": "https://www.john-doe.com",
+      "businessCategory": "IT_SERVICES",
+      "businessSubCategory": null
+    }
+  }
+]
